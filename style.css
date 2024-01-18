@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(207, 192, 192);
+}
+
+h1{
+    background-color: rgb(240, 187, 187);
+    color: rgb(85, 6, 6);
+}
+ul li{
+    color: green;
+    text-decoration: underline;
+    background-color: white;
+    width: 4%;
+}
+
+.abc{
+    background-color: white;
+    color: orange;
+}
+p{
+    color: rgb(113, 104, 104);
+}
